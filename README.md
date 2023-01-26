@@ -4,3 +4,6 @@
 #### Once the data is pre-processed, we apply various machine learning algorithms to train and optimize a model that can accurately diagnose diabetes. This process involves selecting the most appropriate algorithms for the task and fine-tuning them to improve their performance. The model's performance is regularly evaluated using unseen data to ensure its effectiveness and to identify areas for improvement.
 
 #### The results of this application are used to improve the efficiency and accuracy of diabetes diagnosis. By using machine learning techniques, we can quickly and accurately identify patients with diabetes, which allows for earlier treatment and better outcomes. Additionally, by continuously evaluating and improving the performance of the model, we can ensure that it remains a reliable and effective tool for diabetes diagnosis.
+
+# 
+![Diabetes](https://user-images.githubusercontent.com/59016268/214793888-375429c4-7062-45f1-aa04-b2d2211f335a.svg)
