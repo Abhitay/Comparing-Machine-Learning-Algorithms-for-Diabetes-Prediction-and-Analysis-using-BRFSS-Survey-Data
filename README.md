@@ -6,4 +6,4 @@
 #### The results of this application are used to improve the efficiency and accuracy of diabetes diagnosis. By using machine learning techniques, we can quickly and accurately identify patients with diabetes, which allows for earlier treatment and better outcomes. Additionally, by continuously evaluating and improving the performance of the model, we can ensure that it remains a reliable and effective tool for diabetes diagnosis.
 
 # 
-![Diabetes](https://user-images.githubusercontent.com/59016268/214793888-375429c4-7062-45f1-aa04-b2d2211f335a.svg)
+![Diabetes](https://user-images.githubusercontent.com/59016268/214794311-7ca8eb00-f38d-4d0f-8aa0-888d7a8640a3.png)
